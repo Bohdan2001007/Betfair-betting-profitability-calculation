@@ -10,4 +10,4 @@ Over a certain amount of time I collected coefficient data and conducted statist
 
 # Consider the example of the match Napoli-Milan:
 
-![Page1](/static/File1.png)
+![File1](/static/File1.png)
