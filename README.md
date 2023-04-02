@@ -7,8 +7,6 @@ Hello! This Python project demonstrates the profitability of two types of bets:
 
 Over a certain period, I collected coefficient data and conducted statistical analysis of positive (represented by "+" in the JSON file) and negative (represented by "-" in the JSON file) outcomes. This analysis allows us to understand the potential profitability of these betting strategies.
 
-Over a certain amount of time I collected coefficient data and conducted statistics of a positive (named in json like "+") or negative (named in json like "-" outcome for us.
-
 # Consider the example of the match Napoli-Milan
 
 In this case, a coefficient of 7.2 is available for us, since the coefficients are higher (for example, 7.4) are in the auction:
@@ -21,12 +19,11 @@ In this case, a coefficient of 2.02 is available to us
 
 # Created tables
 
-As field "result" is obligatory, I must fill them not knowing result, because let's imagine that Napoli won 2:1 and fill tables
+As the "result" field is obligatory, I must fill them not knowing the result, because let's imagine that Napoli won 2:1 and fill tables
 
 ![File3](/static/File3.png)
 
-
-We add "F" before home team if It is a favorite or add "F" after guest team if It is a favorite
+We add "F" before the home team if it is a favorite or add "F" after the guest team if it is a favorite
 
 ![File4](/static/File4.png)
 
@@ -47,7 +44,7 @@ Python3 must be already installed
 
 ![File5](/static/File5.png)
 
-# Profitability of bet on win of favorite team agains outsider
+# Profitability of bet on win of favorite team against outsider
 
 - cd bet_on_favorite
 - python profitability.py
@@ -56,4 +53,4 @@ Python3 must be already installed
 
 # Secret information
 
-You need to create .env file to store secret key in format SECRET_KEY=""
+You need to create a .env file to store the secret key in the format SECRET_KEY="".
