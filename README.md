@@ -9,3 +9,5 @@ Hello, I have written python project to demonstrate profitability of 2 kinds of 
 Over a certain amount of time I collected coefficient data and conducted statistics of a positive (named in json like "+") or negative (named in json like "-" outcome for us.
 
 # Consider the example of the match Napoli-Milan:
+
+![Page1](/static/File1.png)
