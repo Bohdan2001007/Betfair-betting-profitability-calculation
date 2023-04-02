@@ -31,7 +31,7 @@ We add "F" before the home team if it is a favorite or add "F" after the guest t
 
 Python3 must be already installed
 
-- git clone https://github.com/Bohdan2001007/Newspaper-agency
+- git clone https://github.com/Bohdan2001007/Betfair-betting-profitability-calculation.git
 - python3 -m venv venv
 - source venv/bin/activate
 - pip install -r requirements.txt
