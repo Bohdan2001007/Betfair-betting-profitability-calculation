@@ -19408,5 +19408,15 @@
       "coefficient": 7.8,
       "result": "+"
     }
+  },
+  {
+    "model": "score_bet.scoreanalytic",
+    "pk": 1942,
+    "fields": {
+      "match": "Napoli-Milan",
+      "score": "1:1",
+      "coefficient": 7.2,
+      "result": "-"
+    }
   }
 ]

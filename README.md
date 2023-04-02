@@ -30,3 +30,26 @@ We add "F" before home team if It is a favorite or add "F" after guest team if I
 
 ![File4](/static/File4.png)
 
+# Installation
+
+Python3 must be already installed
+
+- git clone https://github.com/Bohdan2001007/Newspaper-agency
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install -r requirements.txt
+- python manage.py migrate
+
+# Profitability of bet on correct score 1:1
+
+- cd analysis_score_bet
+- python profitability.py
+
+![File5](/static/File5.png)
+
+# Profitability of bet on win of favorite team agains outsider
+
+- cd bet_on_favorite
+- python profitability.py
+
+![File6](/static/File6.png)

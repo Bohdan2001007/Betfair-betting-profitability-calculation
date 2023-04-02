@@ -4372,5 +4372,14 @@
       "coefficient": 1.91,
       "result": "+"
     }
+  },
+  {
+    "model": "bet_on_favorite.favoriteBetAnalytic",
+    "pk": 487,
+    "fields": {
+      "match": "Napoli-Milan",
+      "coefficient": 2.02,
+      "result": "+"
+    }
   }
 ]
