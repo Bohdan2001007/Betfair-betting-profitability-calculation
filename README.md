@@ -10,4 +10,10 @@ Over a certain amount of time I collected coefficient data and conducted statist
 
 # Consider the example of the match Napoli-Milan:
 
+in this case, a coefficient of 7.2 is available to us, since the coefficients are higher (for example, 7.4) are in the auction:
+
 ![File1](/static/File1.png)
+
+in this case, a coefficient of 2.02 is available to us
+
+![File1](/static/File2.png)
