@@ -8,7 +8,7 @@ Hello, I have written python project to demonstrate profitability of 2 kinds of 
 
 Over a certain amount of time I collected coefficient data and conducted statistics of a positive (named in json like "+") or negative (named in json like "-" outcome for us.
 
-# Consider the example of the match Napoli-Milan:
+# Consider the example of the match Napoli-Milan
 
 in this case, a coefficient of 7.2 is available to us, since the coefficients are higher (for example, 7.4) are in the auction:
 
@@ -16,4 +16,10 @@ in this case, a coefficient of 7.2 is available to us, since the coefficients ar
 
 in this case, a coefficient of 2.02 is available to us
 
-![File1](/static/File2.png)
+![File2](/static/File2.png)
+
+# Created tables
+
+![File3](/static/File3.png)
+
+![File4](/static/File4.png)
