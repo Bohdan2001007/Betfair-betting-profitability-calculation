@@ -1,3 +1,8 @@
 from django.db import models
 
-# Create your models here.
+
+class ScoreAnalytic(models.Model):
+    match = models.CharField(max_length=50)
+    score = models.CharField(max_length=10)
+    coefficient = models.FloatField()
+    result = models.CharField(max_length=10)
