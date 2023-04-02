@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ScoreBetConfig(AppConfig):
+class BetOnFavoriteConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'score_bet'
+    name = 'bet_on_favorite'

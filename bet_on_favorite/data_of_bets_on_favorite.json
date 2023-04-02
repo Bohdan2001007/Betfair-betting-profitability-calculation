@@ -1,0 +1,3404 @@
+[
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 1,
+  "match": "F Antwerp-Fenerbahce",
+  "coefficient": 2.64,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 2,
+  "match": "F Braga-Ludogorets",
+  "coefficient": 1.34,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 3,
+  "match": "F Red Star-Midtjylland",
+  "coefficient": 1.85,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 4,
+  "match": "F Dynamo Z-Rapid",
+  "coefficient": 1.87,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 5,
+  "match": "Ferencvaros-Celtic F",
+  "coefficient": 2.16,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 6,
+  "match": "F Leicester-Spartak",
+  "coefficient": 1.27,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 7,
+  "match": "F Bayer-Betis",
+  "coefficient": 2.02,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 8,
+  "match": "F Marseille-Lazio",
+  "coefficient": 2.36,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 9,
+  "match": "F PAOK-Copenhagen",
+  "coefficient": 2.26,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 10,
+  "match": "F Rennes-Mura",
+  "coefficient": 1.12,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 11,
+  "match": "F Roma-Bodo\/Glimt",
+  "coefficient": 1.29,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 12,
+  "match": "F Slavia-Maccabi Haifa",
+  "coefficient": 1.5,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 13,
+  "match": "F Tottenham-Vitesse",
+  "coefficient": 1.21,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 14,
+  "match": "F Union-Feyenoord",
+  "coefficient": 2.66,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 15,
+  "match": "Mainz-Borussia M F",
+  "coefficient": 2.66,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 16,
+  "match": "F Empoli-Genoa",
+  "coefficient": 2.22,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 17,
+  "match": "F Athletic-Cadiz",
+  "coefficient": 1.42,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 18,
+  "match": "Huesca-Leganes F",
+  "coefficient": 2.96,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 19,
+  "match": "F Lens-Troyes",
+  "coefficient": 1.65,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 20,
+  "match": "F Southampton-Aston Villa",
+  "coefficient": 2.1,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 21,
+  "match": "Boavista-Famalicao F",
+  "coefficient": 2.06,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 22,
+  "match": "F Fortuna (D) - Hannover",
+  "coefficient": 2.1,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 23,
+  "match": "Man United - Man City F",
+  "coefficient": 1.82,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 24,
+  "match": "F Espanyol - Granada",
+  "coefficient": 1.94,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 25,
+  "match": "Dynamo (Moscow) - Krasnodar F",
+  "coefficient": 2.7,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 26,
+  "match": "F Sochaux - Nimes",
+  "coefficient": 2.1,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 27,
+  "match": "Spezia - Torino F",
+  "coefficient": 2.3,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 28,
+  "match": "F Bayern - Freiburg",
+  "coefficient": 1.19,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 29,
+  "match": "Bochum - Hoffenheim F",
+  "coefficient": 1.97,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 30,
+  "match": "F Stuttgart - Arminia (B)",
+  "coefficient": 1.96,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 31,
+  "match": "F Wolfsburg - Augsburg",
+  "coefficient": 1.66,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 32,
+  "match": "F Brentford - Norwich",
+  "coefficient": 1.71,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 33,
+  "match": "F Chelsea - Burnley",
+  "coefficient": 1.29,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 34,
+  "match": "F Crystal Palace - Wolverhampton",
+  "coefficient": 2.5,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 35,
+  "match": "F Barnsley - Hull",
+  "coefficient": 2.36,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 36,
+  "match": "F Birmingham - Reading",
+  "coefficient": 1.86,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 37,
+  "match": "Blackburn - Sheffield United F",
+  "coefficient": 2.34,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 38,
+  "match": "F Bournemouth - Swansea",
+  "coefficient": 1.9,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 39,
+  "match": "F Cardiff - Huddersfield",
+  "coefficient": 2.38,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 40,
+  "match": "F Coventry - Bristol City",
+  "coefficient": 1.61,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 41,
+  "match": "F Millwall - Derby",
+  "coefficient": 2.16,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 42,
+  "match": "F Nottingham Forest - Preston",
+  "coefficient": 2.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 43,
+  "match": "Peterborough - Fulham F",
+  "coefficient": 1.55,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 44,
+  "match": "F West Bromwich - Middlesbrough",
+  "coefficient": 1.8,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 45,
+  "match": "Blackpool - QPR F",
+  "coefficient": 2.44,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 46,
+  "match": "Celta (V) - Barcelona F",
+  "coefficient": 2.06,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 47,
+  "match": "Austria Vienna - Red Bull (Salzburg) F",
+  "coefficient": 1.42,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 48,
+  "match": "F Besiktas - Trabzonspor",
+  "coefficient": 2.24,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 49,
+  "match": "F Lille - Angers",
+  "coefficient": 1.69,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 50,
+  "match": "F Sochi - CSKA (Moscow)",
+  "coefficient": 2.4,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 51,
+  "match": "Grasshopper (Zurich) - Young Boys F",
+  "coefficient": 1.71,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 52,
+  "match": "F Juventus - Fiorentina",
+  "coefficient": 1.7,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 53,
+  "match": "F Alaves - Levante",
+  "coefficient": 2.48,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 54,
+  "match": "F Brighton - Newcastle",
+  "coefficient": 1.61,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 55,
+  "match": "F RB Leipzig - Borussia (D)",
+  "coefficient": 2,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 56,
+  "match": "F NEC (Nijmegen) - Heerenveen",
+  "coefficient": 2.42,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 57,
+  "match": "F Willem II - Sparta (Rotterdam)",
+  "coefficient": 2.44,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 58,
+  "match": "Cagliari - Atalanta F",
+  "coefficient": 1.56,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 59,
+  "match": "Bordeaux - PSG F",
+  "coefficient": 1.29,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 60,
+  "match": "F Real (M) - Rayo Vallecano",
+  "coefficient": 1.38,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 61,
+  "match": "F Guimaraes - Moreirense",
+  "coefficient": 1.59,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 62,
+  "match": "F Australia - Saudi Arabia",
+  "coefficient": 1.81,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 63,
+  "match": "F South Korea - UAE",
+  "coefficient": 1.41,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 64,
+  "match": "Lebanon - Iran F",
+  "coefficient": 1.44,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 65,
+  "match": "Vietnam - Japan F",
+  "coefficient": 1.22,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 66,
+  "match": "China - Oman F",
+  "coefficient": 2.82,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 67,
+  "match": "Armenia - North Macedonia F",
+  "coefficient": 2.66,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 68,
+  "match": "F Azerbaijan - Luxembourg",
+  "coefficient": 2.94,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 69,
+  "match": "Georgia - Sweden F",
+  "coefficient": 1.62,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 70,
+  "match": "F Russia - Cyprus",
+  "coefficient": 1.17,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 71,
+  "match": "F Serbia - Qatar",
+  "coefficient": 1.44,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 72,
+  "match": "F Czech Republic - Kuwait",
+  "coefficient": 1.22,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 73,
+  "match": "F Ukraine - Bulgaria",
+  "coefficient": 1.41,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 74,
+  "match": "F Germany - Liechtenstein",
+  "coefficient": 1.01,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 75,
+  "match": "Greece - Spain F",
+  "coefficient": 1.53,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 76,
+  "match": "Malta - Croatia F",
+  "coefficient": 1.14,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 77,
+  "match": "Ireland - Portugal F",
+  "coefficient": 1.46,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 78,
+  "match": "F Romania - Iceland",
+  "coefficient": 1.64,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 79,
+  "match": "F Slovakia - Slovenia",
+  "coefficient": 2.42,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 80,
+  "match": "F Ecuador - Venezuela",
+  "coefficient": 1.37,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 81,
+  "match": "F Paraguay - Chile",
+  "coefficient": 2.52,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 82,
+  "match": "F Brazil - Colombia",
+  "coefficient": 1.43,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 83,
+  "match": "F Peru - Bolivia",
+  "coefficient": 1.32,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 84,
+  "match": "Andorra - Poland F",
+  "coefficient": 1.09,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 85,
+  "match": "F Austria - Israel",
+  "coefficient": 1.55,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 86,
+  "match": "F Denmark - Faroe Islands",
+  "coefficient": 1.04,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 87,
+  "match": "F England - Albania",
+  "coefficient": 1.18,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 88,
+  "match": "F Hungary - San Marino",
+  "coefficient": 1.01,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 89,
+  "match": "F Italy - Switzerland",
+  "coefficient": 1.65,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 90,
+  "match": "F Northern Ireland - Lithuania",
+  "coefficient": 1.44,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 91,
+  "match": "Uruguay - Argentina F",
+  "coefficient": 2.12,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 92,
+  "match": "F Canada - Costa Rica",
+  "coefficient": 1.47,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 93,
+  "match": "F USA - Mexico",
+  "coefficient": 2.78,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 94,
+  "match": "Leicester - Chelsea F",
+  "coefficient": 1.81,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 95,
+  "match": "F Sheffield United - Coventry",
+  "coefficient": 2.06,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 96,
+  "match": "F Celta Vigo - Villarreal",
+  "coefficient": 2.6,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 97,
+  "match": "F SPAL - Alessandria",
+  "coefficient": 1.87,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 98,
+  "match": "F Lokomotiv - Akhmat (Grozny)",
+  "coefficient": 2.64,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 99,
+  "match": "F Atalanta - Spezia",
+  "coefficient": 1.29,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 100,
+  "match": "F Toulouse - Sochaux",
+  "coefficient": 2.04,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 101,
+  "match": "Arminia Bielefeld - Wolfsburg F",
+  "coefficient": 2.1,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 102,
+  "match": "F Borussia Dortmund - Stuttgart",
+  "coefficient": 1.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 103,
+  "match": "Hoffenheim - RB Leipzig F",
+  "coefficient": 1.78,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 104,
+  "match": "F Bayer Leverkusen - Bochum",
+  "coefficient": 1.48,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 105,
+  "match": "F Borussia Monchengladbach - Greuther Furth",
+  "coefficient": 1.31,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 106,
+  "match": "Accrington - Sheffield Wednesday F",
+  "coefficient": 2.22,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 107,
+  "match": "F Aston Villa - Brighton",
+  "coefficient": 2.5,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 108,
+  "match": "Bristol City - Blackburn F",
+  "coefficient": 2.38,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 109,
+  "match": "Burnley - Crystal Palace F",
+  "coefficient": 2.8,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 110,
+  "match": "F Charlton - Plymouth",
+  "coefficient": 2.38,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 111,
+  "match": "Dundee United - Aberdeen F",
+  "coefficient": 2.76,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 112,
+  "match": "F Fulham - Barnsley",
+  "coefficient": 1.32,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 113,
+  "match": "Huddersfield - West Bromwich F",
+  "coefficient": 2.06,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 114,
+  "match": "F Hull - Birmingham",
+  "coefficient": 2.76,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 115,
+  "match": "F Middlesbrough - Millwall",
+  "coefficient": 2.28,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 116,
+  "match": "Motherwell - Hearts F",
+  "coefficient": 1.86,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 117,
+  "match": "F Newcastle - Brentford",
+  "coefficient": 2.52,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 118,
+  "match": "Norwich - Southampton F",
+  "coefficient": 2.2,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 119,
+  "match": "F Preston - Cardiff",
+  "coefficient": 2.06,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 120,
+  "match": "Reading - Nottingham Forest F",
+  "coefficient": 2.68,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 121,
+  "match": "F Stoke - Peterborough",
+  "coefficient": 1.65,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 122,
+  "match": "Wolverhampton - West Ham F",
+  "coefficient": 2.5,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 123,
+  "match": "Watford - Manchester United F",
+  "coefficient": 1.52,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 124,
+  "match": "F Sevilla - Alaves",
+  "coefficient": 1.51,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 125,
+  "match": "F PSV - Vitesse",
+  "coefficient": 1.53,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 126,
+  "match": "F Krasnodar - Spartak Moscow",
+  "coefficient": 1.78,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 127,
+  "match": "F PSG - Nantes",
+  "coefficient": 1.21,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 128,
+  "match": "F AZ Alkmaar - NEC Nijmegen",
+  "coefficient": 1.43,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 129,
+  "match": "F Almeria - Valladolid",
+  "coefficient": 2.26,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 130,
+  "match": "F Werder Bremen - Schalke",
+  "coefficient": 2.22,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 131,
+  "match": "Fiorentina - Milan F",
+  "coefficient": 2.58,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 132,
+  "match": "F Barcelona - Espanyol",
+  "coefficient": 1.53,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 133,
+  "match": "F Heracles - Fortuna Sittard",
+  "coefficient": 1.74,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 134,
+  "match": "F Rennes - Montpellier",
+  "coefficient": 1.51,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 135,
+  "match": "F Porto - Feirense",
+  "coefficient": 1.2,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 136,
+  "match": "F CSKA Moscow - Khimki",
+  "coefficient": 1.59,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 137,
+  "match": "F Sassuolo - Cagliari",
+  "coefficient": 1.63,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 138,
+  "match": "Brest - Lens F",
+  "coefficient": 2.36,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 139,
+  "match": "Derby - Bournemouth F",
+  "coefficient": 1.89,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 140,
+  "match": "F Anderlecht - Kortrijk",
+  "coefficient": 1.52,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 141,
+  "match": "Dynamo Dresden - Fortuna Dusseldorf F",
+  "coefficient": 2.54,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 142,
+  "match": "F Getafe - Cadiz",
+  "coefficient": 2.12,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 143,
+  "match": "F Feyenoord - Zwolle",
+  "coefficient": 1.22,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 144,
+  "match": "F Heerenveen - Willem II",
+  "coefficient": 1.98,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 145,
+  "match": "F Angers - Lorient",
+  "coefficient": 1.85,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 146,
+  "match": "F Bologna - Venezia",
+  "coefficient": 1.7,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 147,
+  "match": "F Troyes - Saint-Etienne",
+  "coefficient": 2.46,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 148,
+  "match": "F Manchester City - Everton",
+  "coefficient": 1.23,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 149,
+  "match": "F Metz - Bordeaux",
+  "coefficient": 2.36,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 150,
+  "match": "Salernitana - Sampdoria F",
+  "coefficient": 2.58,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 151,
+  "match": "F Strasbourg - Reims",
+  "coefficient": 2.08,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 152,
+  "match": "F Huesca - Ibiza Eivissa",
+  "coefficient": 2.34,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 153,
+  "match": "AEK - Olympiacos F",
+  "coefficient": 2.52,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 154,
+  "match": "Atromitos - PAOK F",
+  "coefficient": 1.66,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 155,
+  "match": "Elche - Betis F",
+  "coefficient": 2.5,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 156,
+  "match": "F Molde - Rosenborg",
+  "coefficient": 1.5,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 157,
+  "match": "Genoa - Roma F",
+  "coefficient": 1.75,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 158,
+  "match": "F Verona - Empoli",
+  "coefficient": 1.76,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 159,
+  "match": "F Torino - Udinese",
+  "coefficient": 2.18,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 160,
+  "match": "Dynamo Kyiv - Bayern F",
+  "coefficient": 1.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 161,
+  "match": "Blackpool - West Bromwich F",
+  "coefficient": 1.97,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 162,
+  "match": "F Coventry - Birmingham",
+  "coefficient": 2.04,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 163,
+  "match": "F Ipswich - Rotherham",
+  "coefficient": 2.78,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 164,
+  "match": "F Nottingham Forest - Luton",
+  "coefficient": 2.66,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 165,
+  "match": "F Barcelona - Benfica",
+  "coefficient": 1.61,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 166,
+  "match": "F Bolton - Doncaster",
+  "coefficient": 1.64,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 167,
+  "match": "F Chelsea - Juventus",
+  "coefficient": 1.7,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 168,
+  "match": "F Lille - Red Bull Salzburg",
+  "coefficient": 2.58,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 169,
+  "match": "Malmo - Zenit St. Petersburg F",
+  "coefficient": 1.88,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 170,
+  "match": "Reading - Sheffield United F",
+  "coefficient": 2.22,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 171,
+  "match": "F Sevilla - Wolfsburg",
+  "coefficient": 1.72,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 172,
+  "match": "Young Boys - Atalanta F",
+  "coefficient": 1.77,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 173,
+  "match": "Barnsley - Swansea F",
+  "coefficient": 2.5,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 174,
+  "match": "F Blackburn - Peterborough",
+  "coefficient": 1.83,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 175,
+  "match": "Bristol City - Stoke F",
+  "coefficient": 2.28,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 176,
+  "match": "F Cardiff - Hull",
+  "coefficient": 2.14,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 177,
+  "match": "F Fulham - Derby",
+  "coefficient": 1.39,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 178,
+  "match": "Millwall - Bournemouth F",
+  "coefficient": 2.5,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 179,
+  "match": "F QPR - Huddersfield",
+  "coefficient": 2.06,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 180,
+  "match": "F Atletico Madrid - Milan",
+  "coefficient": 1.65,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 181,
+  "match": "Brugge - RB Leipzig F",
+  "coefficient": 1.98,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 182,
+  "match": "F Liverpool - Porto",
+  "coefficient": 1.75,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 183,
+  "match": "F Manchester City - PSG",
+  "coefficient": 1.58,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 184,
+  "match": "Sheriff Tiraspol - Real Madrid F",
+  "coefficient": 1.26,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 185,
+  "match": "F Sporting Lisbon - Borussia Dortmund",
+  "coefficient": 2.54,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 186,
+  "match": "F Betis - Ferencvaros",
+  "coefficient": 1.27,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 187,
+  "match": "F Red Star Belgrade - Ludogorets Razgrad",
+  "coefficient": 1.37,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 188,
+  "match": "F Dinamo Zagreb - Genk",
+  "coefficient": 2.12,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 189,
+  "match": "Galatasaray - Marseille F",
+  "coefficient": 2.7,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 190,
+  "match": "F Bayer Leverkusen - Celtic",
+  "coefficient": 1.59,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 191,
+  "match": "Lokomotiv - Lazio F",
+  "coefficient": 1.65,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 192,
+  "match": "Maccabi Haifa - Union Berlin F",
+  "coefficient": 1.98,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 193,
+  "match": "F Midtjylland - Braga",
+  "coefficient": 2.52,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 194,
+  "match": "Mura - Tottenham F",
+  "coefficient": 1.14,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 195,
+  "match": "F Qarabag FK - Omonia",
+  "coefficient": 1.33,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 196,
+  "match": "Rapid Vienna - West Ham F",
+  "coefficient": 1.55,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 197,
+  "match": "F Rennes - Vitesse",
+  "coefficient": 1.41,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 198,
+  "match": "F Slavia Prague - Feyenoord",
+  "coefficient": 2.42,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 199,
+  "match": "Slovan Bratislava - PAOK F",
+  "coefficient": 2.24,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 200,
+  "match": "Anorthosis - Gent F",
+  "coefficient": 1.54,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 201,
+  "match": "F Bodo\/Glimt - CSKA Sofia",
+  "coefficient": 1.37,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 202,
+  "match": "Brondby - Lyon F",
+  "coefficient": 2.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 203,
+  "match": "F Eintracht Frankfurt - Antwerp",
+  "coefficient": 1.45,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 204,
+  "match": "Jablonec - AZ Alkmaar F",
+  "coefficient": 1.72,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 205,
+  "match": "F Leicester - Legia Warsaw",
+  "coefficient": 1.19,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 206,
+  "match": "Monaco - Real Sociedad F",
+  "coefficient": 2.66,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 207,
+  "match": "F Olympiacos - Fenerbahce",
+  "coefficient": 1.8,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 208,
+  "match": "F PSV - Sturm Graz",
+  "coefficient": 1.31,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 209,
+  "match": "F Randers - CFR Cluj",
+  "coefficient": 2.38,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 210,
+  "match": "F Rangers - Sparta Prague",
+  "coefficient": 1.64,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 211,
+  "match": "F Roma - Zorya",
+  "coefficient": 1.15,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 212,
+  "match": "F Arsenal - Newcastle",
+  "coefficient": 1.54,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 213,
+  "match": "Preston - Fulham F",
+  "coefficient": 1.93,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 214,
+  "match": "Alaves - Celta Vigo F",
+  "coefficient": 2.6,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 215,
+  "match": "F Empoli - Fiorentina",
+  "coefficient": 2.04,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 216,
+  "match": "Sampdoria - Verona F",
+  "coefficient": 2.58,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 217,
+  "match": "Bochum - Freiburg F",
+  "coefficient": 2.52,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 218,
+  "match": "Cologne - Borussia Monchengladbach F",
+  "coefficient": 2.4,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 219,
+  "match": "Greuther Furth - Hoffenheim F",
+  "coefficient": 1.63,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 220,
+  "match": "F Hertha Berlin - Augsburg",
+  "coefficient": 1.97,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 221,
+  "match": "Wolfsburg - Borussia Dortmund F",
+  "coefficient": 2.66,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 222,
+  "match": "F Fortuna Sittard - FC Groningen",
+  "coefficient": 2.72,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 223,
+  "match": "West Ham - Chelsea F",
+  "coefficient": 1.84,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 224,
+  "match": "F Milan - Salernitana",
+  "coefficient": 1.26,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 225,
+  "match": "F Bayer Leverkusen - Greuther Furth",
+  "coefficient": 1.22,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 226,
+  "match": "F Atletico Madrid - Mallorca",
+  "coefficient": 1.36,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 227,
+  "match": "Borussia Dortmund - Bayern F",
+  "coefficient": 1.98,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 228,
+  "match": "Watford - Manchester City F",
+  "coefficient": 1.23,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 229,
+  "match": "F Portland Timbers - Real Salt Lake",
+  "coefficient": 1.77,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 230,
+  "match": "Dundee United - Celtic F",
+  "coefficient": 1.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 231,
+  "match": "AZ Alkmaar - Sparta Rotterdam",
+  "coefficient": 1.47,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 232,
+  "match": "F Leeds - Brentford",
+  "coefficient": 1.89,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 233,
+  "match": "F Manchester United - Crystal Palace",
+  "coefficient": 1.55,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 234,
+  "match": "F Monaco - Metz",
+  "coefficient": 1.41,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 235,
+  "match": "F Tottenham - Norwich",
+  "coefficient": 1.46,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 236,
+  "match": "F Feyenoord - Fortuna Sittard",
+  "coefficient": 1.17,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 237,
+  "match": "F Nice - Strasbourg",
+  "coefficient": 1.91,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 238,
+  "match": "F Borussia Monchengladbach - Freiburg",
+  "coefficient": 1.85,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 239,
+  "match": "F AEK - Panathinaikos",
+  "coefficient": 1.88,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 240,
+  "match": "Bordeaux - Lyon F",
+  "coefficient": 1.73,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 241,
+  "match": "F Juventus - Genoa",
+  "coefficient": 1.24,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 242,
+  "match": "F Celta Vigo - Valencia",
+  "coefficient": 1.99,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 243,
+  "match": "F Braga - Estoril",
+  "coefficient": 1.46,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 244,
+  "match": "F River Plate - Defensa y Justicia",
+  "coefficient": 1.65,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 245,
+  "match": "F PSG - Brugge",
+  "coefficient": 1.31,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 246,
+  "match": "RB Leipzig - Manchester City F",
+  "coefficient": 1.79,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 247,
+  "match": "F Ajax - Sporting Lisbon",
+  "coefficient": 1.25,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 248,
+  "match": "F Borussia Dortmund - Besiktas",
+  "coefficient": 1.26,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 249,
+  "match": "F Shakhtar - Sheriff Tiraspol",
+  "coefficient": 1.78,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 250,
+  "match": "F Juventus - Malmo",
+  "coefficient": 1.23,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 251,
+  "match": "Zenit St. Petersburg - Chelsea F",
+  "coefficient": 1.61,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 252,
+  "match": "F Bayern - Barcelona",
+  "coefficient": 1.66,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 253,
+  "match": "F Benfica - Dynamo Kyiv",
+  "coefficient": 1.43,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 254,
+  "match": "F Manchester United - Young Boys",
+  "coefficient": 1.78,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 255,
+  "match": "F Atalanta - Villarreal",
+  "coefficient": 1.75,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 256,
+  "match": "F Braga - Red Star Belgrade",
+  "coefficient": 1.61,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 257,
+  "match": "Ferencvaros - Bayer Leverkusen F",
+  "coefficient": 1.8,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 258,
+  "match": "F Genk - Rapid Vienna",
+  "coefficient": 1.69,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 259,
+  "match": "F Lazio - Galatasaray",
+  "coefficient": 1.57,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 260,
+  "match": "Ludogorets Razgrad - Midtjylland F",
+  "coefficient": 1.62,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 261,
+  "match": "F Marseille - Lokomotiv",
+  "coefficient": 1.35,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 262,
+  "match": "F Feyenoord - Maccabi Haifa",
+  "coefficient": 1.64,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 263,
+  "match": "F PAOK - Lincoln Red Imps",
+  "coefficient": 1.05,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 264,
+  "match": "F Union Berlin - Slavia Prague",
+  "coefficient": 1.9,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 265,
+  "match": "F Vitesse - Mura",
+  "coefficient": 1.14,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 266,
+  "match": "F Bragantino SP - Internacional",
+  "coefficient": 1.97,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 267,
+  "match": "F Gremio - Atletico MG",
+  "coefficient": 1.55,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 268,
+  "match": "F Atletico GO - Flamengo",
+  "coefficient": 1.81,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 269,
+  "match": "SE Palmeiras - Ceara SC Fortaleza F",
+  "coefficient": 1.91,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 270,
+  "match": "F Sport Recife - Athletico-PR",
+  "coefficient": 1.78,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 271,
+  "match": "F Cologne - Augsburg",
+  "coefficient": 1.74,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 272,
+  "match": "F Krylia Sovetov - Rubin",
+  "coefficient": 1.99,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 273,
+  "match": "F Manchester City - Wolverhampton",
+  "coefficient": 1.19,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 274,
+  "match": "Venezia - Juventus F",
+  "coefficient": 1.45,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 275,
+  "match": "Norwich - Manchester United F",
+  "coefficient": 1.46,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 276,
+  "match": "F Valencia - Elche",
+  "coefficient": 1.68,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 277,
+  "match": "F Utrecht - Go Ahead Eagles",
+  "coefficient": 1.54,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 278,
+  "match": "F Guimaraes - Tondela",
+  "coefficient": 1.62,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 279,
+  "match": "Udinese - Milan F",
+  "coefficient": 1.86,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 280,
+  "match": "F Sporting Lisbon - Boavista",
+  "coefficient": 1.21,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 281,
+  "match": "F Twente - RKC Waalwijk",
+  "coefficient": 1.74,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 282,
+  "match": "Hearts - Rangers F",
+  "coefficient": 1.59,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 283,
+  "match": "NEC-PSV F",
+  "coefficient": 1.33,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 284,
+  "match": "F Real Madrid - Atletico Madrid",
+  "coefficient": 1.93,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 285,
+  "match": "F Roma - Spezia",
+  "coefficient": 1.4,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 286,
+  "match": "F Zwolle - MVV Maastricht",
+  "coefficient": 1.35,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 287,
+  "match": "F Udinese - Crotone",
+  "coefficient": 1.46,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 288,
+  "match": "Stuttgart - Bayern F",
+  "coefficient": 1.33,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 289,
+  "match": "F Hibernian - Dundee",
+  "coefficient": 1.71,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 290,
+  "match": "F Genoa - Salernitana",
+  "coefficient": 1.78,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 291,
+  "match": "F Manchester City - Leeds",
+  "coefficient": 1.16,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 292,
+  "match": "NAC Breda - Utrecht F",
+  "coefficient": 1.36,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 293,
+  "match": "Penafiel - Sporting Lisbon F",
+  "coefficient": 1.34,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 294,
+  "match": "F AZ Alkmaar - Heracles",
+  "coefficient": 1.26,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 295,
+  "match": "Twente - Feyenoord F",
+  "coefficient": 1.72,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 296,
+  "match": "Harkemase Boys - RKC Waalwijk F",
+  "coefficient": 1.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 297,
+  "match": "Augsburg - RB Leipzig F",
+  "coefficient": 1.47,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 298,
+  "match": "F Borussia Dortmund - Greuther Furth",
+  "coefficient": 1.13,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 299,
+  "match": "F Fiorentina - Benevento",
+  "coefficient": 1.44,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 300,
+  "match": "F PSV - Fortuna Sittard",
+  "coefficient": 1.09,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 301,
+  "match": "F Porto - Rio Ave",
+  "coefficient": 1.58,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 302,
+  "match": "F Chelsea - Everton",
+  "coefficient": 1.23,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 303,
+  "match": "F Liverpool - Newcastle",
+  "coefficient": 1.13,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 304,
+  "match": "Valenciennes - Strasbourg F",
+  "coefficient": 1.51,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 305,
+  "match": "Boavista - Braga F",
+  "coefficient": 1.53,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 306,
+  "match": "F Lazio - Genoa",
+  "coefficient": 1.58,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 307,
+  "match": "F Bayern Munich - Wolfsburg",
+  "coefficient": 1.23,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 308,
+  "match": "Barnsley - West Bromwich F",
+  "coefficient": 1.69,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 309,
+  "match": "Salernitana - Inter F",
+  "coefficient": 1.19,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 310,
+  "match": "FC Paris - Lyon F",
+  "coefficient": 1.56,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 311,
+  "match": "F Toulouse - Nimes",
+  "coefficient": 1.65,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 312,
+  "match": "F Rayo Vallecano - Alaves",
+  "coefficient": 1.76,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 313,
+  "match": "F Trabzonspor - Hatayspor",
+  "coefficient": 1.73,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 314,
+  "match": "F Atalanta - Roma",
+  "coefficient": 1.75,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 315,
+  "match": "F Fortuna Sittard - Utrecht",
+  "coefficient": 1.76,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 316,
+  "match": "Bologna - Juventus F",
+  "coefficient": 1.99,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 317,
+  "match": "F Barcelona - Elche",
+  "coefficient": 1.34,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 318,
+  "match": "Hertha Berlin - Borussia Dortmund F",
+  "coefficient": 1.64,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 319,
+  "match": "Leeds - Arsenal F",
+  "coefficient": 1.64,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 320,
+  "match": "F Lille - OGC Nice",
+  "coefficient": 1.17,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 321,
+  "match": "F AZ Alkmaar - Willem II",
+  "coefficient": 1.26,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 322,
+  "match": "Hamburger SV - Schalke F",
+  "coefficient": 1.87,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 323,
+  "match": "F Rennes - Lorient",
+  "coefficient": 1.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 324,
+  "match": "F USA - Bosnia and Herzegovina",
+  "coefficient": 1.43,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 325,
+  "match": "F Fiorentina - Sassuolo",
+  "coefficient": 1.95,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 326,
+  "match": "Feyenoord - Ajax F",
+  "coefficient": 1.88,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 327,
+  "match": "Newcastle - Manchester City F",
+  "coefficient": 1.14,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 328,
+  "match": "Wolverhampton - Chelsea F",
+  "coefficient": 1.81,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 329,
+  "match": "Hibernian - Celtic F",
+  "coefficient": 1.47,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 330,
+  "match": "F Cologne - Stuttgart",
+  "coefficient": 1.89,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 331,
+  "match": "Tottenham - Liverpool F",
+  "coefficient": 1.72,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 332,
+  "match": "F Benfica - Maritimo",
+  "coefficient": 1.2,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 333,
+  "match": "F Sampdoria - Venezia",
+  "coefficient": 1.84,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 334,
+  "match": "Dinan Lehon - Brest F",
+  "coefficient": 1.18,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 335,
+  "match": "F Genk - Antwerp",
+  "coefficient": 1.9,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 336,
+  "match": "F Hajduk Split - Osijek",
+  "coefficient": 1.94,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 337,
+  "match": "Vizela - Porto F",
+  "coefficient": 1.31,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 338,
+  "match": "F Real Madrid - Cadiz",
+  "coefficient": 1.15,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 339,
+  "match": "Entente Feignies Aulnoye FC v Paris St-G F",
+  "coefficient": 1.04,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 340,
+  "match": "F Braga - Belenenses",
+  "coefficient": 1.24,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 341,
+  "match": "F Fulham - Sheffield United",
+  "coefficient": 1.64,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 342,
+  "match": "F Algeria - Sierra Leone",
+  "coefficient": 1.16,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 343,
+  "match": "Reading - Fulham F",
+  "coefficient": 1.47,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 344,
+  "match": "Leca FC - Sporting Lisbon F",
+  "coefficient": 1.11,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 345,
+  "match": "F West Ham - Norwich",
+  "coefficient": 1.44,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 346,
+  "match": "Syria - South Korea F",
+  "coefficient": 1.52,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 347,
+  "match": "F Iran - UAE",
+  "coefficient": 1.45,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 348,
+  "match": "F Uruguay - Venezuela",
+  "coefficient": 1.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 349,
+  "match": "F Valencia - Cadiz",
+  "coefficient": 1.52,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 350,
+  "match": "Belenenses - Sporting Lisbon F",
+  "coefficient": 1.27,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 351,
+  "match": "F Jamaica - Costa Rica",
+  "coefficient": 2.86,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 352,
+  "match": "F USA - Honduras",
+  "coefficient": 1.18,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 353,
+  "match": "F Corinthians - Santos",
+  "coefficient": 1.85,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 354,
+  "match": "F Mexico - Panama",
+  "coefficient": 1.39,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 355,
+  "match": "F Cameroon - Egypt",
+  "coefficient": 2.4,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 356,
+  "match": "F Real Sociedad - Real Betis",
+  "coefficient": 1.83,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 357,
+  "match": "Athletic Bilbao - Real Madrid F",
+  "coefficient": 2.64,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 358,
+  "match": "Birmingham - Sheffield United F",
+  "coefficient": 2.1,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 359,
+  "match": "F Getafe - Levante",
+  "coefficient": 2.12,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 360,
+  "match": "F Manchester United - Middlesbrough",
+  "coefficient": 1.27,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 361,
+  "match": "F Marseille - Angers",
+  "coefficient": 1.58,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 362,
+  "match": "F Chelsea - Plymouth",
+  "coefficient": 1.05,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 363,
+  "match": "Kidderminster - West Ham F",
+  "coefficient": 1.19,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 364,
+  "match": "F Roma - Genoa",
+  "coefficient": 1.4,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 365,
+  "match": "Arminia Bielefeld - Borussia Monchengladbach F",
+  "coefficient": 2.16,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 366,
+  "match": "Augsburg - Union Berlin F",
+  "coefficient": 2.76,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 367,
+  "match": "F Cologne - Freiburg",
+  "coefficient": 2.62,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 368,
+  "match": "Mainz - Hoffenheim F",
+  "coefficient": 2.74,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 369,
+  "match": "F Stuttgart - Eintracht Frankfurt",
+  "coefficient": 2.54,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 370,
+  "match": "F Inter - Milan",
+  "coefficient": 1.98,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 371,
+  "match": "F Bayern Munich - RB Leipzig",
+  "coefficient": 1.45,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 372,
+  "match": "Cambridge United - Luton F",
+  "coefficient": 2.26,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 373,
+  "match": "F Celta Vigo - Rayo Vallecano",
+  "coefficient": 2.02,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 374,
+  "match": "F Swansea - Blackburn",
+  "coefficient": 2.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 375,
+  "match": "F Burnley - Watford",
+  "coefficient": 2.26,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 376,
+  "match": "F P. Ferreira - Portimonense",
+  "coefficient": 2.6,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 377,
+  "match": "Burkina Faso - Cameroon F",
+  "coefficient": 1.92,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 378,
+  "match": "F Zwolle - NEC Nijmegen",
+  "coefficient": 2.1,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 379,
+  "match": "F PSV - AZ Alkmaar",
+  "coefficient": 1.92,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 380,
+  "match": "F Fiorentina - Lazio",
+  "coefficient": 2.48,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 381,
+  "match": "F Twente - Vitesse",
+  "coefficient": 2.84,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 382,
+  "match": "F Monaco - Lyon",
+  "coefficient": 2.16,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 383,
+  "match": "Osasuna - Sevilla F",
+  "coefficient": 2.38,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 384,
+  "match": "F Tottenham - Brighton",
+  "coefficient": 1.98,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 385,
+  "match": "F River Plate - Velez Sarsfield",
+  "coefficient": 1.91,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 386,
+  "match": "F Feyenoord - Sparta Rotterdam",
+  "coefficient": 1.24,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 387,
+  "match": "F Atalanta - Cagliari",
+  "coefficient": 1.25,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 388,
+  "match": "F Liverpool - Cardiff",
+  "coefficient": 1.09,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 389,
+  "match": "Lorient - Lens F",
+  "coefficient": 2.44,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 390,
+  "match": "F Club Brugge - Gent",
+  "coefficient": 2.28,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 391,
+  "match": "Motherwell - Celtic F",
+  "coefficient": 1.36,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 392,
+  "match": "F Bologna - Empoli",
+  "coefficient": 2.12,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 393,
+  "match": "F Troyes - Metz",
+  "coefficient": 2.3,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 394,
+  "match": "F Nice - Clermont",
+  "coefficient": 1.73,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 395,
+  "match": "F Reims - Bordeaux",
+  "coefficient": 2.02,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 396,
+  "match": "Sampdoria - Sassuolo F",
+  "coefficient": 2.54,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 397,
+  "match": "F Strasbourg - Nantes",
+  "coefficient": 1.86,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 398,
+  "match": "Venezia - Napoli F",
+  "coefficient": 1.48,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 399,
+  "match": "F Borussia Dortmund - Bayer Leverkusen",
+  "coefficient": 1.93,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 400,
+  "match": "F Barcelona - Atletico Madrid",
+  "coefficient": 2.38,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 401,
+  "match": "F Boavista - Vizela",
+  "coefficient": 2.54,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 402,
+  "match": "F Gil Vicente - Santa Clara",
+  "coefficient": 2.1,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 403,
+  "match": "F Red Bull Salzburg - LASK Linz",
+  "coefficient": 1.46,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 404,
+  "match": "F Ajax - Heracles",
+  "coefficient": 1.12,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 405,
+  "match": "F Rangers - Hearts",
+  "coefficient": 1.43,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 406,
+  "match": "F Rennes - Brest",
+  "coefficient": 1.49,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 407,
+  "match": "Nottingham Forest - Leicester F",
+  "coefficient": 1.9,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 408,
+  "match": "Udinese - Torino F",
+  "coefficient": 2.68,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 409,
+  "match": "F Real Betis - Villarreal",
+  "coefficient": 2.48,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 410,
+  "match": "F PAOK - Panathinaikos",
+  "coefficient": 1.93,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 411,
+  "match": "Arouca - Porto F",
+  "coefficient": 1.4,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 412,
+  "match": "F Bournemouth - Boreham Wood",
+  "coefficient": 1.35,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 413,
+  "match": "F Flamengo - Fluminense",
+  "coefficient": 1.73,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 414,
+  "match": "F Senegal - Egypt",
+  "coefficient": 2.24,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 415,
+  "match": "F Juventus - Verona",
+  "coefficient": 1.61,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 416,
+  "match": "Lille - PSG F",
+  "coefficient": 1.82,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 417,
+  "match": "F Real Madrid - Granada",
+  "coefficient": 1.28,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 418,
+  "match": "F Sporting Lisbon - Famalicao",
+  "coefficient": 1.3,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 419,
+  "match": "F Coventry - Blackpool",
+  "coefficient": 1.83,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 420,
+  "match": "F Inter - Roma",
+  "coefficient": 1.65,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 421,
+  "match": "F Newcastle - Everton",
+  "coefficient": 2.58,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 422,
+  "match": "F West Ham - Watford",
+  "coefficient": 1.57,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 423,
+  "match": "Burnley - Manchester United F",
+  "coefficient": 1.63,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 424,
+  "match": "F Derby - Hull",
+  "coefficient": 2.42,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 425,
+  "match": "F Fulham - Millwall",
+  "coefficient": 1.48,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 426,
+  "match": "F Luton - Barnsley",
+  "coefficient": 1.7,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 427,
+  "match": "F Stoke - Swansea",
+  "coefficient": 2.18,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 428,
+  "match": "F Monterrey - Al Jazira",
+  "coefficient": 1.34,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 429,
+  "match": "F Slavia Prague - Sparta Prague",
+  "coefficient": 1.66,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 430,
+  "match": "Al-Hilal - Chelsea F",
+  "coefficient": 1.22,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 431,
+  "match": "AEK - PAOK F",
+  "coefficient": 2.62,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 432,
+  "match": "F Ajax - Vitesse",
+  "coefficient": 1.19,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 433,
+  "match": "RKC Waalwijk - AZ Alkmaar F",
+  "coefficient": 1.49,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 434,
+  "match": "Aberdeen - Celtic F",
+  "coefficient": 1.57,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 435,
+  "match": "F Blackburn - Nottingham Forest",
+  "coefficient": 2.48,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 436,
+  "match": "F Bournemouth - Birmingham",
+  "coefficient": 1.47,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 437,
+  "match": "F Bristol City - Reading",
+  "coefficient": 1.87,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 438,
+  "match": "F Cardiff - Peterborough",
+  "coefficient": 1.68,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 439,
+  "match": "F Dundee United - Motherwell",
+  "coefficient": 2.72,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 440,
+  "match": "F Hearts - Dundee",
+  "coefficient": 1.54,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 441,
+  "match": "F Kilmarnock - Ayr",
+  "coefficient": 1.67,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 442,
+  "match": "F Man City - Brentford",
+  "coefficient": 1.12,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 443,
+  "match": "Norwich - Crystal Palace F",
+  "coefficient": 2.32,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 444,
+  "match": "F Preston - Huddersfield",
+  "coefficient": 2.2,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 445,
+  "match": "F QPR - Middlesbrough",
+  "coefficient": 2.7,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 446,
+  "match": "F Rangers - Hibernian",
+  "coefficient": 1.29,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 447,
+  "match": "F Ross County - Livingston",
+  "coefficient": 2.58,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 448,
+  "match": "F Sheffield United - West Bromwich",
+  "coefficient": 2.38,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 449,
+  "match": "F St. Mirren - St. Johnstone",
+  "coefficient": 2.46,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 450,
+  "match": "F Tottenham - Southampton",
+  "coefficient": 1.62,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 451,
+  "match": "F Milan - Lazio",
+  "coefficient": 2.02,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 452,
+  "match": "F Aston Villa - Leeds",
+  "coefficient": 1.9,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 453,
+  "match": "F Rayo Vallecano - Real Betis",
+  "coefficient": 2.72,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 454,
+  "match": "Nice - Marseille F",
+  "coefficient": 2.56,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 455,
+  "match": "F RB Leipzig - Cologne",
+  "coefficient": 1.45,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 456,
+  "match": "F PSG - Rennes",
+  "coefficient": 1.59,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 457,
+  "match": "F Sevilla - Elche",
+  "coefficient": 1.43,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 458,
+  "match": "F Porto - Sporting Lisbon",
+  "coefficient": 1.99,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 459,
+  "match": "Cadiz - Celta Vigo F",
+  "coefficient": 2.04,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 460,
+  "match": "F Lazio - Bologna",
+  "coefficient": 1.7,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 461,
+  "match": "Bochum - Bayern Munich F",
+  "coefficient": 1.23,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 462,
+  "match": "F FC Groningen - Fortuna Sittard",
+  "coefficient": 1.93,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 463,
+  "match": "F Benfica - Santa Clara",
+  "coefficient": 1.34,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 464,
+  "match": "F Hapoel Tel Aviv - Maccabi Tel Aviv",
+  "coefficient": 1.95,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 465,
+  "match": "Vitesse - PSV F",
+  "coefficient": 1.7,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 466,
+  "match": "F Torino - Venezia",
+  "coefficient": 1.61,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 467,
+  "match": "F Atletico Madrid - Getafe",
+  "coefficient": 1.54,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 468,
+  "match": "F Lyon - Nice",
+  "coefficient": 1.88,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 469,
+  "match": "F Estoril - Tondela",
+  "coefficient": 2.02,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 470,
+  "match": "Go Ahead Eagles - AZ Alkmaar F",
+  "coefficient": 1.58,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 471,
+  "match": "F Swansea - Bristol City",
+  "coefficient": 2.18,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 472,
+  "match": "F Young Boys - Basel",
+  "coefficient": 1.64,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 473,
+  "match": "Angers - Strasbourg F",
+  "coefficient": 2.48,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 474,
+  "match": "F Brest - Troyes",
+  "coefficient": 2.02,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 475,
+  "match": "Burnley - Liverpool F",
+  "coefficient": 1.24,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 476,
+  "match": "F Clermont - Saint-Etienne",
+  "coefficient": 2.48,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 477,
+  "match": "F Empoli - Cagliari",
+  "coefficient": 2.06,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 478,
+  "match": "F Genoa - Salernitana",
+  "coefficient": 1.91,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 479,
+  "match": "F Nantes - Reims",
+  "coefficient": 2.28,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 480,
+  "match": "Newcastle - Aston Villa F",
+  "coefficient": 2.7,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 481,
+  "match": "F Tottenham - Wolverhampton",
+  "coefficient": 1.75,
+  "result": "-"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 482,
+  "match": "F Verona - Udinese",
+  "coefficient": 1.97,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 483,
+  "match": "Union Berlin - Borussia Dortmund F",
+  "coefficient": 2.08,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 484,
+  "match": "F Bonzi - Lestienne",
+  "coefficient": 1.33,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 485,
+  "match": "Levante - Real Betis F",
+  "coefficient": 2.26,
+  "result": "+"
+ },
+ {
+  "model": "bet_on_favorite.favoriteBetAnalytic",
+  "pk": 486,
+  "match": "F Istanbul - Konyaspor",
+  "coefficient": 1.91,
+  "result": "+"
+ }
+]
