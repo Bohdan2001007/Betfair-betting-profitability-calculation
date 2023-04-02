@@ -24,5 +24,8 @@ As field "result" is obligatory, I must fill them not knowing result, because le
 
 ![File3](/static/File3.png)
 
+
+We add "F" before home team if It is a favorite or add "F" after guest team if It is a favorite
+
 ![File4](/static/File4.png)
 
