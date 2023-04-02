@@ -53,3 +53,7 @@ Python3 must be already installed
 - python profitability.py
 
 ![File6](/static/File6.png)
+
+# Secret information
+
+You need to create .env file to store secret key in format SECRET_KEY=""
