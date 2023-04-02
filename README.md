@@ -10,16 +10,19 @@ Over a certain amount of time I collected coefficient data and conducted statist
 
 # Consider the example of the match Napoli-Milan
 
-in this case, a coefficient of 7.2 is available to us, since the coefficients are higher (for example, 7.4) are in the auction:
+In this case, a coefficient of 7.2 is available for us, since the coefficients are higher (for example, 7.4) are in the auction:
 
 ![File1](/static/File1.png)
 
-in this case, a coefficient of 2.02 is available to us
+In this case, a coefficient of 2.02 is available to us
 
 ![File2](/static/File2.png)
 
 # Created tables
 
+As field "result" is obligatory, I must fill them not knowing result, because let's imagine that Napoli won 2:1 and fill tables
+
 ![File3](/static/File3.png)
 
 ![File4](/static/File4.png)
+
