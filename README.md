@@ -1,10 +1,11 @@
 # Betfair-betting-profitability-calculation
 
-Hello, I have written python project to demonstrate profitability of 2 kinds of bets:
+Hello! This Python project demonstrates the profitability of two types of bets:
 
-- Bet on correct score 1:1 
+1. Betting on a correct score of 1:1
+2. Betting on the win of the favorite team against an outsider
 
-- Bet on win of favorite team agains outsider
+Over a certain period, I collected coefficient data and conducted statistical analysis of positive (represented by "+" in the JSON file) and negative (represented by "-" in the JSON file) outcomes. This analysis allows us to understand the potential profitability of these betting strategies.
 
 Over a certain amount of time I collected coefficient data and conducted statistics of a positive (named in json like "+") or negative (named in json like "-" outcome for us.
 
