@@ -1,39 +1,44 @@
 import json
 
 
-def process_matches(json_file):
-    with open(json_file, 'r') as f:
-        data = json.load(f)
+class MatchProcessor:
+    def __init__(self, json_file):
+        self.json_file = json_file
+        self.total_coefficients = 0
+        self.total_matches = 0
+        self.betfair_commission = 1.025  # Betfair has commission 2.5% from profit of value bets
 
-    total_coefficients = 0
-    total_matches = 0
-    betfair_commission = 1.025  # Betfair has commission 2,5% from profit of value bets
+    def process_matches(self):
+        with open(self.json_file, 'r') as f:
+            data = json.load(f)
 
-    for item in data:
-        fields = item["fields"]
-        result = fields["result"]
-        coefficient = fields["coefficient"]
+        for item in data:
+            fields = item["fields"]
+            result = fields["result"]
+            coefficient = fields["coefficient"]
 
-        if result == "+":
-            total_coefficients += coefficient
-            total_matches += 1
-        else:
-            total_matches += 1
+            if result == "+":
+                self.total_coefficients += coefficient
 
-    print(f"Sum of all value coefficients: {round(total_coefficients, 2)}")
+            self.total_matches += 1
 
-    profit_with_commission_betfair = total_coefficients / betfair_commission
+        self.calculate_profitability()
 
-    print(f"Sum of all value coefficients with commission {round(profit_with_commission_betfair, 2)}")
-    print(f"Count of all matches of our analysis: {total_matches}")
+    def calculate_profitability(self):
+        print(f"Sum of all value coefficients: {round(self.total_coefficients, 2)}")
 
-    profit = profit_with_commission_betfair - total_matches
+        profit_with_commission_betfair = self.total_coefficients / self.betfair_commission
 
-    profitability = (profit / total_matches) * 100
+        print(f"Sum of all value coefficients with commission {round(profit_with_commission_betfair, 2)}")
+        print(f"Count of all matches of our analysis: {self.total_matches}")
 
-    return round(profitability, 2)
+        profit = profit_with_commission_betfair - self.total_matches
+
+        profitability = (profit / self.total_matches) * 100
+
+        print(f"Profitability: {round(profitability, 2)}%")
 
 
 json_file = 'fixed_data_of_bets_on_favorite.json'
-result = process_matches(json_file)
-print(f"Profitability: {result}%")
+match_processor = MatchProcessor(json_file)
+match_processor.process_matches()
